@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "caelestia"
 requires-python = ">=3.13"
-dynamic = ["version"]
+version = "2025.06.27"
 dependencies = [
     "pillow",
     "materialyoucolor"
